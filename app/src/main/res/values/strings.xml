@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assignments List</string>
+     <string name="actionbar">Assignments List</string>
+    <string name="edit">Edit Assignment</string>
+    <string name="delete">Delete Assignment</string>
+    <string name="newassignment">New Assignment</string>
+    <string name="title">Title</string>
+    <string name="titleHint">Write the title</string>
+    <string name="subject">Subject</string>
+    <string name="subjectHint">Write the subject</string>
+    <string name="duedate">Due Date</string>
+    <string name="addassignment">Add Assignment</string>
+    <string name="editassignment">Save Changes</string>
+    <string name="assignmentSaved">Assignment Created</string>
+    <string name="assignmentEdited">Assignment Edited</string>
+    <string name="assignmentDeleted">Assignment Deleted</string>
+    <string name="emptyview">There are no assignments at the time</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lista de Tareas</string>
+    <string name="actionbar">Lista de Tareas</string>
+    <string name="edit">Editar Tarea</string>
+    <string name="delete">Eliminar Tarea</string>
+    <string name="newassignment">Nueva Tarea</string>
+    <string name="title">Título</string>
+    <string name="titleHint">Escribe el título</string>
+    <string name="subject">Materia</string>
+    <string name="subjectHint">Escribe la materia</string>
+    <string name="duedate">Fecha de Entrega</string>
+    <string name="addassignment">Añadir Tarea</string>
+    <string name="editassignment">Guardar Cambios</string>
+    <string name="assignmentSaved">Se creó la Tarea</string>
+    <string name="assignmentEdited">Se editó la Tarea</string>
+    <string name="assignmentDeleted">Se eliminó la Tarea</string>
+    <string name="emptyview">Actualmente no hay tareas</string>
+</resources>
